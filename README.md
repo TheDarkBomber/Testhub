@@ -1,2 +1,3 @@
-# Testhub
-A/B Testing Repository for projects.
+# Puzzlemaker Plus
+A/B development stage for Puzzlemaker Plus.
+
